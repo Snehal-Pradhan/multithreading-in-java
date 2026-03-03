@@ -1,4 +1,4 @@
-### Basics of Computing: CPU, Cores (Single vs. Multi-core), and Processing Units.
+### Note: 1
 
 #### What is a CPU ?
 A CPU is the brain of the computer, it handles all the major computation and arithmetic logic
