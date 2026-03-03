@@ -1,4 +1,7 @@
-### Thread LifeCycles
+### Note: 3
+
+
+#### Thread LifeCycles
 
 thread has multiple states in a process:
 
