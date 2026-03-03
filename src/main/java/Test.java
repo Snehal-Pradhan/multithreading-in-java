@@ -1,5 +1,5 @@
-import class2.Extendthread;
-import class2.ImplementRunnable;
+import howToMakeThreads.Extendthread;
+import howToMakeThreads.ImplementRunnable;
 
 public class Test {
 public static void main(String[] args){
