@@ -19,9 +19,7 @@ public class myThread implements Runnable{
                 System.out.println(Thread.currentThread().getName() + " is running");
                 Thread.yield();
             }
-
             // interleaved print statements
-
         try {
             t1.join();
         } catch (InterruptedException e) {
